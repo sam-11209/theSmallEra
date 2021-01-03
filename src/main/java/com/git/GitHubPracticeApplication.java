@@ -9,6 +9,7 @@ public class GitHubPracticeApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(GitHubPracticeApplication.class, args);
 		System.out.println("----git hub running-----------");
+		System.out.println("----adding something from git hub -----------");
 	}
 
 }
