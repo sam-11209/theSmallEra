@@ -12,6 +12,8 @@ public class GitHubPracticeApplication {
 		System.out.println("----adding something from git hub -----------");
 		System.out.println("ABC");
 		System.out.println("ABCD");
+		System.out.println("EFG");
+		System.out.println("EFGH");
 		System.out.println("----adding something from git hub again -----------");
 	}
 
