@@ -10,6 +10,8 @@ public class GitHubPracticeApplication {
 		SpringApplication.run(GitHubPracticeApplication.class, args);
 		System.out.println("----git hub running-----------");
 		System.out.println("----adding something from git hub -----------");
+		System.out.println("ABC");
+		System.out.println("ABCD");
 		System.out.println("----adding something from git hub again -----------");
 	}
 
